@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/carlosdiniz0390/carlosdiniz/_apis/build/status/carlosdiniz1.DevOpsLab-HelloWorld?branchName=master)](https://dev.azure.com/carlosdiniz0390/carlosdiniz/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
